@@ -1,0 +1,12 @@
+pandas
+supabase
+markdown
+plotly
+beautifulsoup4
+tqdm
+folium
+geopy
+selenium
+webdriver-manager
+opencage
+glob2
